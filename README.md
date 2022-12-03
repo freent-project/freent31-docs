@@ -1,2 +1,2 @@
-# kernel-docs
-Documentation for the FreeNT Kernel, an open-source project to recreate Windows NT under GNU free software guidelines
+# FreeNT Documentation
+This is FreeNT, a project to create the Windows kermel without proprietary code.
