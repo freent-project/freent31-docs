@@ -27,9 +27,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - # You may pin to the exact commit or the version.
-        # uses: CultureHQ/actions-bundler@285f68b1d2059b91ca1eb26683263cf1960e7161
-        uses: CultureHQ/actions-bundler@v1.0.0
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1.126.0
+        with:
+          bundler: latest
+      - name: Install dependencies
+        run: bundle install || sudo bundle install
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
