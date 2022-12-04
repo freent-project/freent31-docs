@@ -1,3 +1,4 @@
-theme: jekyll-rtd-theme
+theme: remote-theme
+remote-theme: jekyll-rtd-theme
 title: FreeNT
 description: OpenWindows vanilla kernel with modules
