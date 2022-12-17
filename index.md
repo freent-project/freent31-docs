@@ -1,6 +1,6 @@
 ---
-title: FreeNT
-excerpt: FreeNT is an open-source kernel developed to replace Windows.
+title: FreeNT Documentation - for the developers
+excerpt: FreeNT is an open-source kernel developed to replace Windows
 ---
 
 FreeNT replaces Windows with an open-source operating system. From command-lines such
