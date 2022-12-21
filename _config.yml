@@ -16,7 +16,7 @@ callouts:
     color: blue
   tip:
     title: "Did you know?"
-    color: grey
+    color: blue
 gh_edit_link: true
 gh_edit_link_text: "Edit this page"
 gh_edit_repository: "https://github.com/freent-project/freent31-docs"
