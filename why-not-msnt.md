@@ -15,4 +15,9 @@ were the same NT - Microsoft dropped DOS from the Windows infrastructure.
 ## Alternative
 
 OpenWindows Workstation (also useful for home users) allows choosing to install Win32 programs.
-Most people will want this but Richard Stallman doesn't.
+Most people will want this. You must avoid enabling Win32 if you are looking to avoid proprietary
+software.
+
+You can also use Microsoft Windows instead of OpenWindows, which unfourtunately does not support OW32,
+meaning apps that are built on top of it will not support Microsoft Windows. Use **OpenWindows Flash**
+to flash a Windows image (you must have one on local storage).
