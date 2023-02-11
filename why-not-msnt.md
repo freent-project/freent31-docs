@@ -19,5 +19,5 @@ Most people will want this. You must avoid enabling Win32 if you are looking to 
 software.
 
 You can also use Microsoft Windows instead of OpenWindows, which unfourtunately does not support OW32,
-meaning apps that are built on top of it will not run and must be replaced with Win32 versions.. Use
+meaning apps that are built on top of it will not run and must be replaced with Win32 versions. Use
 **OpenWindows Flash** to flash a Windows image (you must have the URL or a Windows image on local storage).
