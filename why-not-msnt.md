@@ -1,6 +1,6 @@
 ---
 title: "Why not use Microsoft Windows NT?"
-excerpt: "It's not free."
+excerpt: "Short answer: It's not open-source. Long answer: Check this page."
 ---
 {: .note }
 This is an essay. It's nothing to do with development. There should be general consensus whether this should be moved to the OpenWindows README.
@@ -19,5 +19,5 @@ Most people will want this. You must avoid enabling Win32 if you are looking to 
 software.
 
 You can also use Microsoft Windows instead of OpenWindows, which unfourtunately does not support OW32,
-meaning apps that are built on top of it will not support Microsoft Windows. Use **OpenWindows Flash**
-to flash a Windows image (you must have one on local storage).
+meaning apps that are built on top of it will not run and must be replaced with Win32 versions.. Use
+**OpenWindows Flash** to flash a Windows image (you must have the URL or a Windows image on local storage).
