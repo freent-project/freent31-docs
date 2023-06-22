@@ -1,11 +1,13 @@
 ---
-title: FreeNT API
+title: Introduction
 excerpt: Extend the FreeNT system and program a kernel module using the FreeNT API.
+parent: "FreeNT API"
+nav_order: 1
 ---
 {: .fs-9 }
 # FreeNT API
 {: .fs-6 .fw-300 }
-The FreeNT API is a library for interacting with FreeNT systems, such as OpenWindows and ow-repair. It encourages using [kernel modules](/what-is-mod.html) instead of [monkeypatching](/monkey.html) FreeNT source code.
+The FreeNT API is a library for interacting with FreeNT systems, such as OpenWindows and the so-called "ow-repair". It encourages using [kernel modules](/what-is-mod.html) instead of [monkeypatching](/monkey.html) FreeNT source code.
 
 ---
 
