@@ -1,7 +1,8 @@
 ---
-title: "Where do the names \"FreeNT\" and \"OpenWindows\" come from?"
+title: "Where do the names of FreeNT projects come from?"
 excerpt: "Please spread the word. FreeNT is open-source."
 ---
+# Where do the names "FreeNT", "OpenWindows", etc. come from?
 {: .note }
 This is an essay. It's nothing to do with development. There should be general consensus whether this should be moved to the FreeNT README. This document also explains OpenWindows's name, so the specific parts would be put into the FreeNT and OpenWindows READMEs respectively.
 
