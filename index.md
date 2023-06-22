@@ -18,7 +18,7 @@ The FreeNT Documentation documents FreeNT kernel calls and FreeNT development.
 Thanks to everyone who helped writing the docs!
 
 {: .tip}
-This is a dynamic list. To add yourself to this list, simply make a pull request, and you'll appear here.
+This is a dynamic list. To add yourself to this list, simply make a pull request to [`freent-project/freent31-docs`](https://github.com/freent-project/freent31-docs), and you'll appear here.
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
