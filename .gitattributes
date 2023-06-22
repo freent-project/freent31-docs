@@ -1,2 +1,6 @@
-# Let GitHub's language detector see our markdown files
+# Hacky linguist override
+# Let GitHub's language detector see our markdown files and jekyll config,
+# and stop it from finding content in jekyll paths
 *.md linguist-detectable
+_config.yml linguist-detectable
+_*/* linguist-detectable=false
