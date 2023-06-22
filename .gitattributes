@@ -1,0 +1,2 @@
+# Let GitHub's language detector see our markdown files
+*.md linguist-detectable
