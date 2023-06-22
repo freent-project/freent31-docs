@@ -30,7 +30,7 @@ non-technical perspectives, stands for **O**pen**W**indows **Boot**loader.
 This is a play on other bootloader names, such as Apple's iBoot.
 
 ### FreeNT Docs
-This is the original name for OpenWindows, with "Docs" added as an additional word, to indicate
+This is the original name for [OpenWindows's kernel](#top), with "Docs" added as an additional word, to indicate
 that it is not the actual kernel, but rather the developer documentation, which also references
 OpenWindows several times.
 
@@ -38,7 +38,7 @@ OpenWindows several times.
 The OpenWindows License is a legal document, whose name originates from the name OpenWindows.
 Sometimes, it is referenced with a version number (latest: 1.0) after the name.
 
-### freent-module-...
+### `freent-module-*` repositories
 This is the name of several Git repositories, most of which are not owned by the FreeNT project.
 Be careful when downloading repositories with these names, as they may be viruses that "inject" code
 into the kernel.
@@ -48,3 +48,7 @@ you should scan modules with antiviruses before installing them, unless the auth
 Project and you understand it *is* the FreeNT Project, whereas the module is official and safe.
 The FreeNT project has never, and will not, write any malware for any operating system, including
 OpenWindows itself.
+
+### `chat` repository
+This is the name of a dummy repository that stores project-scope GitHub Discussions.
+This name is very rarely used by the FreeNT project, and expected unused outside of it.
