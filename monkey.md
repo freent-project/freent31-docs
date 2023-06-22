@@ -89,3 +89,4 @@ after starting the system:
 int handleBootFinish() {
   createWindow("info", "FreeNT + OpenWindows = ...", "Hello World!");
 }
+```
