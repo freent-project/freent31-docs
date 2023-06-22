@@ -5,8 +5,4 @@
 /*        should not touch this file.            */
 /*************************************************/
 
-if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-    jtd.setTheme("dark");
-} else {
-    jtd.setTheme("light");
-}
+// nothing, the older one broke down and caused the page not to load
