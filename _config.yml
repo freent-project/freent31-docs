@@ -2,23 +2,25 @@ remote_theme: just-the-docs/just-the-docs
 title: FreeNT
 description: OpenWindows vanilla kernel
 callouts:
+  annotated-line:
+    color: yellow
   warning:
-    title: "⚠ Warning"
+    title: "Warning"
     color: yellow
   caution:
-    title: "⚠ Caution"
+    title: "Caution"
     color: red
   new:
-    title: "➕ New"
+    title: "New"
     color: green
   info:
-    title: "ℹ Info"
+    title: "Info"
     color: blue
   note:
-    title: "ℹ Note"
+    title: "Note"
     color: blue
   tip:
-    title: "💡 Protip"
+    title: "Protip"
     color: green
 gh_edit_link: true
 gh_edit_link_text: "Edit this page"
