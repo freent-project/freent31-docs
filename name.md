@@ -15,8 +15,9 @@ The OpenWindows name is not an abberivation, but rather a clone of the name "Win
 to their operating systems. The "Open" prefix was added to clarify that OpenWindows is open-source.
 
 {: .note }
-OpenWindows is sometimes called "FreeNT OpenWindows" or "OpenWindows system" to distinguish it from an obsolete window manager by Sun Microsystems, which is currently documented on Wikipedia. OpenWindows is not abandonware, and it most likely won't for a long time.
+OpenWindows is sometimes called "FreeNT OpenWindows" or "OpenWindows system" to distinguish it from an obsolete window manager by Sun Microsystems, which is currently documented on Wikipedia. OpenWindows is not abandonware, and it most likely won't be for a long time.
 
+{: .warning }
 When using the name OpenWindows, please do not use it to refer to Microsoft Windows.
 The name of the FreeNT Project's operating system, OpenWindows, is misleading for a proprietary operating system,
 hence the first component of the name, "Open".
