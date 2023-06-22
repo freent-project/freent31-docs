@@ -3,20 +3,23 @@ title: FreeNT
 description: OpenWindows vanilla kernel
 callouts:
   warning:
-    title: "Warning"
+    title: "⚠ Warning"
+    color: yellow
+  caution:
+    title: "⚠ Caution"
     color: red
   new:
-    title: "New"
-    color: blue
+    title: "➕ New"
+    color: green
   info:
-    title: "Information"
+    title: "ℹ Info"
     color: blue
   note:
-    title: "Note!"
+    title: "ℹ Note"
     color: blue
   tip:
-    title: "Did you know?"
-    color: blue
+    title: "💡 Protip"
+    color: green
 gh_edit_link: true
 gh_edit_link_text: "Edit this page"
 gh_edit_repository: "https://github.com/freent-project/freent31-docs"
