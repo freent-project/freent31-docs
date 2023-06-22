@@ -23,7 +23,7 @@ This is a dynamic list. To add yourself to this list, simply make a pull request
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
   <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" title="{{ contributor.login }}"></a>
+     <a href="{{ contributor.html_url }}"><img style="border-radius: 100%;" src="{{ contributor.avatar_url }}" width="32" height="32" title="{{ contributor.login }}"></a>
   </li>
 {% endfor %}
 </ul>
