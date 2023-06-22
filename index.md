@@ -1,10 +1,14 @@
 ---
-title: FreeNT Documentation - for the developers
+title: Home
 excerpt: FreeNT is an open-source kernel developed to replace Windows
 ---
 
 {: .warning}
 This documentation is intended for developers. If you are not a developer, you are not at the right place. OpenWindows 11 help is available at https://freent-project.github.io/openwindows11-help.
+
+---
+
+# The FreeNT Project's official kernel
 
 FreeNT replaces Windows with an open-source operating system. From command-lines such
 as `fntsh` to kernel modules such as `win32-vm`, FreeNT is powerful.
@@ -20,10 +24,10 @@ Thanks to everyone who helped writing the docs!
 {: .tip}
 This is a dynamic list. To add yourself to this list, simply make a pull request to [`freent-project/freent31-docs`](https://github.com/freent-project/freent31-docs), and you'll appear here.
 
-<ul class="list-style-none">
+<ul>
 {% for contributor in site.github.contributors %}
   <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img style="border-radius: 100%;" src="{{ contributor.avatar_url }}" width="32" height="32" title="{{ contributor.login }}"></a>
+     <a href="{{ contributor.html_url }}">@{{ contributor.login }}</a>
   </li>
 {% endfor %}
 </ul>
