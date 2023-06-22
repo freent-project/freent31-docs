@@ -5,7 +5,10 @@
 /*        should not touch this file.            */
 /*************************************************/
 
-if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-  // dark mode
-  jtd.setTheme("dark");
+while (true) {
+  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme("dark");
+  } else {
+    jtd.setTheme("light");
+  }
 }
