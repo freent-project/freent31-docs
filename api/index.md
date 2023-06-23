@@ -1,8 +1,7 @@
 ---
-title: Introduction
+title: FreeNT API
 excerpt: Extend the FreeNT system and program a kernel module using the FreeNT API.
-parent: "FreeNT API"
-nav_order: 1
+nav_order: 7
 ---
 {: .fs-9 }
 # FreeNT API
