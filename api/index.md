@@ -2,6 +2,7 @@
 title: FreeNT API
 excerpt: Extend the FreeNT system and program a kernel module using the FreeNT API.
 nav_order: 7
+has_children: true
 ---
 {: .fs-9 }
 # FreeNT API
